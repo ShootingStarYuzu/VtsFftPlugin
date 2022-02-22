@@ -13,6 +13,11 @@ Demo: https://twitter.com/YuzuStr/status/1487200779417047041
 
 ![Demo displaying user interface of the plugin](images/Demo.png)
 
+## Download
+
+Have a look at the [releases page](https://github.com/ShootingStarYuzu/VtsFftPlugin/releases).
+The first version is available under the section `Assets` and is named `vts-fft-plugin-0.0.1-jar-with-dependencies.jar`.
+
 ## How to use it
 
 1. You select your microphone or music source from the list of audio devices.
@@ -71,7 +76,7 @@ All created parameters have a range from `0.0` (quiet) to `50` (loud).
 - **Volume Normalization**: How to scale the output graph (linear or logarithmic).
 - **Bucket Normalization**: How to scale the bucket frequency ranges (linear or logarithmic).
 
-# How to build
+## How to build
 
 This plugin is built either directly in Eclipse or your IDE of preference
 by importing it as maven project or by using maven directly.
