@@ -1,0 +1,287 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "FrequencyRange1Level",
+			"GroupId": "ParamGroup",
+			"Name": "Frequency Range 1 Level"
+		},
+		{
+			"Id": "FrequencyRange2Level",
+			"GroupId": "ParamGroup",
+			"Name": "Frequency Range 2 Level"
+		},
+		{
+			"Id": "FrequencyRange3Level",
+			"GroupId": "ParamGroup",
+			"Name": "Frequency Range 3 Level"
+		},
+		{
+			"Id": "FrequencyRange4Level",
+			"GroupId": "ParamGroup",
+			"Name": "Frequency Range 4 Level"
+		},
+		{
+			"Id": "FrequencyRange5Level",
+			"GroupId": "ParamGroup",
+			"Name": "Frequency Range 5 Level"
+		},
+		{
+			"Id": "FrequencyRange6Level",
+			"GroupId": "ParamGroup",
+			"Name": "Frequency Range 6 Level"
+		},
+		{
+			"Id": "FrequencyRange1Peak",
+			"GroupId": "ParamGroup",
+			"Name": "Frequency Range 1 Peak"
+		},
+		{
+			"Id": "FrequencyRange2Peak",
+			"GroupId": "ParamGroup",
+			"Name": "Frequency Range 2 Peak"
+		},
+		{
+			"Id": "FrequencyRange3Peak",
+			"GroupId": "ParamGroup",
+			"Name": "Frequency Range 3 Peak"
+		},
+		{
+			"Id": "FrequencyRange4Peak",
+			"GroupId": "ParamGroup",
+			"Name": "Frequency Range 4 Peak"
+		},
+		{
+			"Id": "FrequencyRange5Peak",
+			"GroupId": "ParamGroup",
+			"Name": "Frequency Range 5 Peak"
+		},
+		{
+			"Id": "FrequencyRange6Peak",
+			"GroupId": "ParamGroup",
+			"Name": "Frequency Range 6 Peak"
+		},
+		{
+			"Id": "FrequencyRange1PeakDelayed",
+			"GroupId": "ParamGroup2",
+			"Name": "Frequency Range 1 Peak Delayed"
+		},
+		{
+			"Id": "FrequencyRange2PeakDelayed",
+			"GroupId": "ParamGroup2",
+			"Name": "Frequency Range 2 Peak Delayed"
+		},
+		{
+			"Id": "FrequencyRange3PeakDelayed",
+			"GroupId": "ParamGroup2",
+			"Name": "Frequency Range 3 Peak Delayed"
+		},
+		{
+			"Id": "FrequencyRange4PeakDelayed",
+			"GroupId": "ParamGroup2",
+			"Name": "Frequency Range 4 Peak Delayed"
+		},
+		{
+			"Id": "FrequencyRange5PeakDelayed",
+			"GroupId": "ParamGroup2",
+			"Name": "Frequency Range 5 Peak Delayed"
+		},
+		{
+			"Id": "FrequencyRange6PeakDelayed",
+			"GroupId": "ParamGroup2",
+			"Name": "Frequency Range 6 Peak Delayed"
+		},
+		{
+			"Id": "BAR1_DIFF",
+			"GroupId": "BAR_1",
+			"Name": "Bar 1 Diff"
+		},
+		{
+			"Id": "BAR1_MAX",
+			"GroupId": "BAR_1",
+			"Name": "Bar 1 Max"
+		},
+		{
+			"Id": "BAR1_LEVEL",
+			"GroupId": "BAR_1",
+			"Name": "Bar 1 Level"
+		},
+		{
+			"Id": "BAR1_ROTATION",
+			"GroupId": "BAR_1",
+			"Name": "Bar 1 Rotation"
+		},
+		{
+			"Id": "BAR2_DIFF",
+			"GroupId": "BAR_2",
+			"Name": "Bar 2 Diff"
+		},
+		{
+			"Id": "BAR2_MAX",
+			"GroupId": "BAR_2",
+			"Name": "Bar 2 Max"
+		},
+		{
+			"Id": "BAR2_LEVEL",
+			"GroupId": "BAR_2",
+			"Name": "Bar 2 Level"
+		},
+		{
+			"Id": "BAR2_ROTATION",
+			"GroupId": "BAR_2",
+			"Name": "Bar 2 Rotation"
+		},
+		{
+			"Id": "BAR3_DIFF",
+			"GroupId": "BAR_3",
+			"Name": "Bar 3 Diff"
+		},
+		{
+			"Id": "BAR3_MAX",
+			"GroupId": "BAR_3",
+			"Name": "Bar 3 Max"
+		},
+		{
+			"Id": "BAR3_LEVEL",
+			"GroupId": "BAR_3",
+			"Name": "Bar 3 Level"
+		},
+		{
+			"Id": "BAR3_ROTATION",
+			"GroupId": "BAR_3",
+			"Name": "Bar 3 Rotation"
+		},
+		{
+			"Id": "BAR4_DIFF",
+			"GroupId": "BAR_4",
+			"Name": "Bar 4 Diff"
+		},
+		{
+			"Id": "BAR4_MAX",
+			"GroupId": "BAR_4",
+			"Name": "Bar 4 Max"
+		},
+		{
+			"Id": "BAR4_LEVEL",
+			"GroupId": "BAR_4",
+			"Name": "Bar 4 Level"
+		},
+		{
+			"Id": "BAR4_ROTATION",
+			"GroupId": "BAR_4",
+			"Name": "Bar 4 Rotation"
+		},
+		{
+			"Id": "BAR5_DIFF",
+			"GroupId": "BAR_5",
+			"Name": "Bar 5 Diff"
+		},
+		{
+			"Id": "BAR5_MAX",
+			"GroupId": "BAR_5",
+			"Name": "Bar 5 Max"
+		},
+		{
+			"Id": "BAR5_LEVEL",
+			"GroupId": "BAR_5",
+			"Name": "Bar 5 Level"
+		},
+		{
+			"Id": "BAR5_ROTATION",
+			"GroupId": "BAR_5",
+			"Name": "Bar 5 Rotation"
+		},
+		{
+			"Id": "BAR6_DIFF",
+			"GroupId": "BAR_6",
+			"Name": "Bar 6 Diff"
+		},
+		{
+			"Id": "BAR6_MAX",
+			"GroupId": "BAR_6",
+			"Name": "Bar 6 Max"
+		},
+		{
+			"Id": "BAR6_LEVEL",
+			"GroupId": "BAR_6",
+			"Name": "Bar 6 Level"
+		},
+		{
+			"Id": "BAR6_ROTATION",
+			"GroupId": "BAR_6",
+			"Name": "Bar 6 Rotation"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Levels Input"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Level Peaks Delayed"
+		},
+		{
+			"Id": "BAR_1",
+			"GroupId": "",
+			"Name": "Bar 1"
+		},
+		{
+			"Id": "BAR_2",
+			"GroupId": "",
+			"Name": "Bar 2"
+		},
+		{
+			"Id": "BAR_3",
+			"GroupId": "",
+			"Name": "Bar 3"
+		},
+		{
+			"Id": "BAR_4",
+			"GroupId": "",
+			"Name": "Bar 4"
+		},
+		{
+			"Id": "BAR_5",
+			"GroupId": "",
+			"Name": "Bar 5"
+		},
+		{
+			"Id": "BAR_6",
+			"GroupId": "",
+			"Name": "Bar 6"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "bar_1",
+			"Name": "Bar 1"
+		},
+		{
+			"Id": "bar_2",
+			"Name": "Bar 2"
+		},
+		{
+			"Id": "bar_3",
+			"Name": "Bar 3"
+		},
+		{
+			"Id": "bar_4",
+			"Name": "Bar 4"
+		},
+		{
+			"Id": "bar_5",
+			"Name": "Bar 5"
+		},
+		{
+			"Id": "bar_6",
+			"Name": "Bar 6"
+		},
+		{
+			"Id": "background",
+			"Name": "Background"
+		}
+	]
+}
